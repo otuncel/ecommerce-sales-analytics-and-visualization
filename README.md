@@ -29,10 +29,12 @@ When executed, the analytics pipeline evaluates the datasets and exports two pro
    ```bash
    git clone https://github.com/otuncel/ecommerce-sales-analytics-and-visualization.git
    cd ecommerce-sales-analytics-and-visualization
+   ```
 2.Install dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+     pip install -r requirements.txt
+   ```   
 3. Run the analytics pipeline:
    ```bash
    python sales_analyst.py
+   ```
